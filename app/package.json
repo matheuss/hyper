@@ -8,7 +8,7 @@
     "name": "Zeit, Inc.",
     "email": "team@zeit.co"
   },
-  "repository": "zeit/hyper",
+  "repository": "matheuss/hyper",
   "xo": false,
   "dependencies": {
     "color": "0.11.3",
