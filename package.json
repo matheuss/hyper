@@ -1,5 +1,5 @@
 {
-  "repository": "zeit/hyper",
+  "repository": "matheuss/hyper",
   "scripts": {
     "start": "concurrently --kill-others --raw \"npm run dev\" \"npm run app\"",
     "app": "electron app",
